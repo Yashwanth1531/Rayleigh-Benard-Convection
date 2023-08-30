@@ -1,4 +1,5 @@
 # Rayleigh-Benard-Convection
+**Introduction**
 Rayleigh-B´enard convection is a type of natural convection flow that is only driven by differences in
 density due to a temperature gradient. The Rayleigh-B´enard convection [1] occurs in a volume of fluid
 that is heated from below. In the case studied in this report the fluid is kept between two enclosing

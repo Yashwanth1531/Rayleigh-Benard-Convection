@@ -11,4 +11,4 @@ occur or not. If the temperature gradient, and thus the density gradient, is lar
 forces will dominate and instability will occur. It is the occuring flow patterns that are investigated in
 this report through numerical methods.
 
-![Anim_Ra1e4_T](https://github.com/Yashwanth1531/Rayleigh-Benard-Convection/assets/111849605/0a8179ec-5efa-445e-a006-16c74400a2e4)
+![Anim_Ra1e4_T](https://github.com/Yashwanth1531/Rayleigh-Benard-Convection/assets/111849605/a506002b-ec55-4235-88ad-b54c68e4704a)
